@@ -9,6 +9,9 @@ trigger:
 pr:
 - main
 
+pr:
+- main
+
 pool:
   vmImage: ubuntu-latest
 
