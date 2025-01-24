@@ -4,7 +4,7 @@
 # https://aka.ms/yaml
 
 parameters:
-  - name: CommitAAA
+  - name: Commit
     type: string
     default: "NotUsed"
 
