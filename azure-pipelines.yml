@@ -3,11 +3,6 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
-parameters:
-  - name: Commit
-    type: string
-    default: "NotUsed"
-
 trigger: none
 
 pool:
